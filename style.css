@@ -1,0 +1,152 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+header {
+    background-color: #2e2e2e;
+    padding-bottom: 2cm;
+    padding-top: 2cm;
+    color: white;
+    padding-left: 100px;
+    position: relative;
+}
+
+.h2 {
+    padding-left: 200px;
+    color: rgb(51, 51, 51);
+}
+
+.g {
+    padding-left: 275px;
+    color: rgb(51, 51, 51);
+
+}
+
+form {
+    font-size: smaller;
+    padding-bottom: 1.2cm;
+}
+
+section+h3 {
+    color: red;
+}
+
+body {
+    color: rgb(80, 79, 79);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+
+.footer {
+    color: rgb(80, 80, 80);
+    font-size: smaller;
+    text-align: center;
+    padding-right: 200px;
+    background-color: #2e2e2e;
+}
+
+img {
+    border-radius: 50%;
+}
+
+button {
+    background-color: #2e2e2e;
+    color: white;
+    padding: 10px 50px;
+}
+
+p {
+    font-size: larger;
+    padding-left: 200px;
+}
+
+.ul {
+    list-style-type: square;
+}
+
+.ol {
+    color: white;
+    background-color: #2e2e2e;
+    text-align: center;
+    padding-top: 25px;
+}
+
+h2+ol {
+    color: white;
+}
+
+.form {
+    background-color: #dacdcb;
+    color: rgb(32, 32, 32);
+    text-align: center;
+}
+
+.text-header {
+    position: absolute;
+    left: 600px;
+    top: 150px;
+    font-size: 1.3rem;
+}
+
+.foto-header {
+    margin-left: 100px;
+    margin-right: 2000px;
+    position: relative;
+}
+
+.a {
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+    padding-right: 890px;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+
+.b {
+    padding-left: 495px;
+}
+
+.ul {
+    padding-left: 220px;
+}
+
+.m {
+    position: relative;
+    display: flex;
+    padding-left: 500px;
+    padding-right: 500px;
+
+}
+
+.end {
+    background-color: #2e2e2e;
+}
+
+.l {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.section {
+    padding-bottom: 100px;
+}
+
+.section1 {
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.f {
+    position: absolute;
+    padding-left: 6px;
+}
+
+.k {
+    margin: 25px 0px;
+}
